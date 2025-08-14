@@ -1,5 +1,5 @@
 
-### A Basic TODO CLI App ###
+## A Basic TODO CLI App
 
 A simple command line TODO list app written in python.
 
