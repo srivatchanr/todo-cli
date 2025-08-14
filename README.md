@@ -1,11 +1,12 @@
 
-## A Basic TODO CLI App
+# A Basic TODO CLI App
 
 A simple command line TODO list app written in python.
 
-# Usage
+## Usage
 
 Bash
+
 python todo.py add "Buy Milk"
 
 python todo.py add "Cut Vegetables"
